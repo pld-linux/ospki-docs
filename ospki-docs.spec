@@ -6,6 +6,7 @@ Release:	1
 License:	FDL
 Group:		Documentation
 Source0:	http://download.sourceforge.net/ospkibook/%{name}-DOCS-%{version}.tar.gz
+# Source0-md5:	92e7b2b29e1ff374a06889519dc36e4f
 URL:		http://ospkibook.sourceforge.net/
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
