@@ -16,7 +16,7 @@ explains practical PKI functionality and gives an overview of
 available open-source PKI implementations.
 
 %description -l pl
-Dokument ten opisuje Infrastrukture Klucza Publicznego, obecne
+Dokument ten opisuje Infrastrukturê Klucza Publicznego, obecne
 standardy, wyja¶nia praktycznie funkcjonowanie PKI i daje pogl±d na
 implementacje PKI w ¶rodowisku open-source.
 
