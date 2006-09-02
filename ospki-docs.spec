@@ -27,8 +27,7 @@ implementacje PKI w ¶rodowisku open-source.
 %install
 rm -rf $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT%{_docdir}/OSPKI
-
-cp -ar * $RPM_BUILD_ROOT%{_docdir}/OSPKI
+cp -a * $RPM_BUILD_ROOT%{_docdir}/OSPKI
 
 %clean
 rm -rf $RPM_BUILD_ROOT
