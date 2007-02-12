@@ -1,5 +1,5 @@
 Summary:	Open-source PKI Book
-Summary(pl):	Ksi±¿ka traktuj±ca o PKI
+Summary(pl.UTF-8):   KsiÄ…Å¼ka traktujÄ…ca o PKI
 Name:		OSPKI
 Version:	2.4.7
 Release:	1
@@ -16,10 +16,10 @@ Document describes Public-Key Infrastructures, current PKI standards,
 explains practical PKI functionality and gives an overview of
 available open-source PKI implementations.
 
-%description -l pl
-Dokument ten opisuje Infrastrukturê Klucza Publicznego, obecne
-standardy, wyja¶nia praktycznie funkcjonowanie PKI i daje pogl±d na
-implementacje PKI w ¶rodowisku open-source.
+%description -l pl.UTF-8
+Dokument ten opisuje InfrastrukturÄ™ Klucza Publicznego, obecne
+standardy, wyjaÅ›nia praktycznie funkcjonowanie PKI i daje poglÄ…d na
+implementacje PKI w Å›rodowisku open-source.
 
 %prep
 %setup -q
