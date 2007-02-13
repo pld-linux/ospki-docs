@@ -1,5 +1,5 @@
 Summary:	Open-source PKI Book
-Summary(pl.UTF-8):   Książka traktująca o PKI
+Summary(pl.UTF-8):	Książka traktująca o PKI
 Name:		OSPKI
 Version:	2.4.7
 Release:	1
